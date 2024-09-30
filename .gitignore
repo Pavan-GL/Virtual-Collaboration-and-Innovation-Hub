@@ -1,0 +1,5 @@
+venv/
+logs/
+generated_ideas/ideas.pkl
+engagement_model.pkl
+models/user_engagement_model.pkl
